@@ -7,4 +7,4 @@ You just need to replace the apikey.
 
 You can register through the following link: https://open.bigmodel.cn/usercenter/apikeys to obtain the apikey.
 
-可以通过下面的链接进行注册：https://open.bigmodel.cn/usercenter/apikeys，获得apikey.
+可以通过下面的链接进行注册：https://open.bigmodel.cn/usercenter/apikeys 获得apikey.
