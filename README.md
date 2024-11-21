@@ -9,6 +9,8 @@ You can register through the following link: https://open.bigmodel.cn/usercenter
 
 可以通过下面的链接进行注册：https://open.bigmodel.cn/usercenter/apikeys 获得apikey.
 
+本次教程中会用到智谱的 API key.
+
 chrome 插件安装包安装教程：
 
 1. 下载中文/英文安装包
